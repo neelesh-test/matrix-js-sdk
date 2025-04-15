@@ -18,6 +18,8 @@ limitations under the License.
  * This is an internal module. See {@link MatrixClient} for the public class.
  */
 
+console.log('helloooooooooo');
+
 import { type Optional } from "matrix-events-sdk";
 
 import type { IDeviceKeys, IOneTimeKey } from "./@types/crypto.ts";
